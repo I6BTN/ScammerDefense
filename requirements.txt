@@ -1,0 +1,6 @@
+httpx
+psutil
+rich
+python-dotenv
+python-whois
+dnspython
